@@ -53,4 +53,4 @@ AI detection tools are not always accurate. Results should be treated as estimat
 
 ---
 
-Made with ❤️ by a curious developer.
+Made with ❤️ by a curious developer
